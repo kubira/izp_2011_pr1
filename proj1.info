@@ -1,0 +1,12 @@
+Rozsireni Projektu c. 1 do predmetu IZP
+=============================================
+
+Datum:   24.10.2011
+Autor:   Radim Kubis, xkubis03@stud.fit.vutbr.cz
+Projekt: Prevod casovych udaju, projekt c. 1 pro predmet IZP
+Popis:   Programu lze zadat na prikazove radce i parametr rozsireni --extra
+         pro opacny prevod lidsky citelneho vstupu na vystupni pocet sekund
+         v ciselne podobe. Tento parametr nelze kombinovat s zadnym jinym
+         parametrem programu. Pri prevodu je provedena kontrola maximalni
+         vstupni hodnoty unsigned long, sklonovani a maximalni mozne hodnoty
+         u mensich jednotek nez nejvyssi jednotky vstupu.
